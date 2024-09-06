@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Şeker Portakalı",
+        "price": 123.00,
+        "author": "Jose Mauro de Vasconcelos",
+        "genre": "Roman",
+        "stock": 100,
+        "image": "images/seker-portakali.jpg"
+    },
+    {
+        "name": "Doğu Ekspresinde Cinayet",
+        "price": 178.00,
+        "author": "Agatha Christie",
+        "genre": "Polisiye",
+        "stock": 40,
+        "image": "images/dogu-ekspresinde-cinayet.png"
+    },
+    {
+        "name": "Gece Yarısı Kütüphanesi",
+        "price": 154.00,
+        "author": "Matt Haig",
+        "genre": "Roman",
+        "stock": 200,
+        "image": "images/gece-yarisi-kutuphanesi.jpg"
+    },
+    {
+        "name": "Ben Kirke",
+        "price": 150.00,
+        "author": "Madeline Miller",
+        "genre": "Roman",
+        "stock": 68,
+        "image": "images/ben-kirke.jpg"
+    }
+]

@@ -96,11 +96,11 @@
         "image": "images/hamlet.png"
     },
     {
-        "name": "Yabancı",
-        "price": 97.00,
-        "author": "Albert Camus",
-        "genre": "Roman",
-        "stock": 1540,
-        "image": "images/yabancı.jpg"
+        "name": "2001: Bir Uzay Destanı",
+        "price": 120.00,
+        "author": "Arthur C. Clarke",
+        "genre": "Bilim Kurgu",
+        "stock": 740,
+        "image": "images/2001.jpg"
     }
 ]
